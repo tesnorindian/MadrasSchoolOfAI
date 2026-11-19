@@ -3,6 +3,11 @@
 > **Democratizing AI mastery through peer-to-peer learning, open-weights models, and real-world problem solving.**
 
 ---
+# Slogan
+
+> **Embrace AI to illuminate the world**
+
+---
 
 ## Why "Madras School of AI"?
 
